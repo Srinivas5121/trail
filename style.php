@@ -1,5 +1,5 @@
 <?php
 
-include_once("resumepage.html");
+include_once("responsive-table.html");
 
 ?>
